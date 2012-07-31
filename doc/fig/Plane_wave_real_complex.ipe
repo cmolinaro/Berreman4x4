@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70005" creator="Ipe 7.1.1">
-<info created="D:20120709160409" modified="D:20120710164945"/>
+<info created="D:20120709160409" modified="D:20120731142439"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -286,5 +286,7 @@ h
 368.568 719.157 m
 368.568 783.004 l
 </path>
+<text matrix="1 0 0 1 -8.53407 -7.86567" transformations="translations" pos="120.534 807.866" stroke="black" type="label" width="33.638" height="9.747" depth="2.49" valign="baseline">$\langle \vec{\Pi} \rangle _t$ , $\vec{k}$</text>
+<text matrix="1 0 0 1 183.466 -7.866" transformations="translations" pos="120.534 807.866" stroke="black" type="label" width="48.582" height="9.747" depth="2.49" valign="baseline">$\langle \vec{\Pi} \rangle _t$ , $\Re(\vec{k})$</text>
 </page>
 </ipe>

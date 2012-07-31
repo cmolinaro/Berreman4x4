@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70005" creator="Ipe 7.1.1">
-<info created="D:20120731111601" modified="D:20120731112953"/>
+<info created="D:20120731111601" modified="D:20120731143718"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -257,5 +257,25 @@ h
 256 310.003 l
 </path>
 <text matrix="1 0 0 1 -8.90491 -5.57974" transformations="translations" pos="272 288" stroke="black" type="label" width="5.185" height="6.918" depth="0" valign="baseline">$d$</text>
+<path stroke="black">
+176 256 m
+272 256 l
+</path>
+<path matrix="1 0 0 1 0.14767 -9.99679" stroke="black">
+176 320 m
+272 320 l
+</path>
+<text transformations="translations" pos="211.346 320.057" stroke="black" type="label" width="23.426" height="6.918" depth="0" valign="baseline">Glass</text>
+<text transformations="translations" pos="215.442 242.224" stroke="black" type="label" width="23.426" height="6.918" depth="0" valign="baseline">Glass</text>
+<path stroke="black" dash="dash dotted" arrow="normal/normal">
+272 256 m
+288 256 l
+</path>
+<text matrix="1 0 0 1 0 -32" transformations="translations" pos="288 288" stroke="black" type="label" width="5.694" height="4.289" depth="0" valign="baseline">$x$</text>
+<path stroke="black" dash="dash dotted" arrow="normal/normal">
+272 256 m
+272 320 l
+</path>
+<text matrix="1 0 0 1 0 -16" transformations="translations" pos="272 336" stroke="black" type="label" width="5.071" height="4.289" depth="0" valign="baseline">$z$</text>
 </page>
 </ipe>
